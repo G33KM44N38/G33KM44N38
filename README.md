@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=450&lines=Hi%2C+I'm+Kylian.;An+autodidact+developer+)](https://git.io/typing-svg)
+
 # About Me
 - 👋 Hi, I’m @G33KM44N38, my real name is Kylian
 - 👀 I’m interested in web/mobile development and cybersecurity
